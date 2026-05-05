@@ -131,7 +131,7 @@ Depois, importe esse arquivo no Google Colab e execute as celulas em ordem.
 
 Na etapa de predição é utilizada uma imagem que está na pasta `assets` do projeto.
 
-![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/samuel/Challenge_Extra/01-prediction-section.png)
+![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/samuel/misc/01-prediction-section.png)
 
 Localização:
 
@@ -141,7 +141,7 @@ Challenge_Extra/assets/image_para_teste.jpeg
 
 Durante a execução desta etapa, na célula 15, é necessario enviar manualmente essa imagem no Colab.
 
-![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/samuel/Challenge_Extra/02-prediction-section.png)
+![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/misc/Challenge_Extra/02-prediction-section.png)
 
 
 ## Passo a Passo no Google Colab
