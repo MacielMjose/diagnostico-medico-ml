@@ -141,7 +141,7 @@ Challenge_Extra/assets/image_para_teste.jpeg
 
 Durante a execução desta etapa, na célula 15, é necessario enviar manualmente essa imagem no Colab.
 
-![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/misc/02-prediction-section.png)
+![alt text](https://github.com/MacielMjose/diagnostico-medico-ml/blob/samuel/misc/02-prediction-section.png)
 
 
 ## Passo a Passo no Google Colab
