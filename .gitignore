@@ -9,6 +9,7 @@ build/
 
 # Virtual environment
 .venv/
+WebApi/.venv
 venv/
 env/
 .env/
